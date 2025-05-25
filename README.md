@@ -120,6 +120,6 @@ These are the two largest U.S. banks by assets, but they differ in:
 **Mickey** 
 
 Aspiring Data Analyst | Interested in Finance & Business Analytics  
-📫 [keyroll020922@gmail.com](mailto:keyroll020922@gmail.com)
+📫 [pofianalyst@gmail.com](mailto:pofianalyst@gmail.com)
 
 
