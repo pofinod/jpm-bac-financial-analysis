@@ -102,6 +102,12 @@ These are the two largest U.S. banks by assets, but they differ in:
 - Revenue Streams – JPM has stronger investment banking operations; BAC is more retail-focused.
 - Performance – Comparing them reveals insights into how different strategies affect financial outcomes.
 
+## 🧠 Key Findings
+- **JPMorgan** had stronger and more stable profitability over the period.
+- **Bank of America** showed more fluctuations in net income and ROE.
+- **JPM** consistently maintained a lower debt-to-equity ratio, suggesting stronger financial leverage control.
+
+
 ## ⚙️ Tools & Technologies
 
 - Python (pandas, seaborn, matplotlib)
