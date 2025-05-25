@@ -1,4 +1,4 @@
-![Dashboard Overview](dashboard.png)
+![Preview](dd1.png)
 
 # 🏦 JPMorgan vs Bank of America: Financial Analysis
 
